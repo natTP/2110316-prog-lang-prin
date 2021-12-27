@@ -1,0 +1,2 @@
+good(a).
+good(b).

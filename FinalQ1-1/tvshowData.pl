@@ -1,0 +1,1 @@
+:- dynamic tvshow/3.
